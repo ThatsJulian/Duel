@@ -1,0 +1,16 @@
+#Stores the Arena Details.
+Arena:
+    Spawn1:
+        X:
+        Y:
+        Z:
+        Pitch:
+        Yaw:
+        World:
+    Spawn2:
+        X:
+        Y:
+        Z:
+        Pitch:
+        Yaw:
+        World:
